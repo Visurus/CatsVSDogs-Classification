@@ -9,9 +9,6 @@ A fun project to differentiate dogs from cats.
 - numpy
 - NVIDIA® GPU card with CUDA® Compute Capability 3.5
 - NVIDIA® GPU drivers —CUDA 10.0 requires 410.x or higher.
-- CUDA® Toolkit —TensorFlow supports CUDA 10.0 (TensorFlow >= 1.13.0)
-- CUPTI ships with the CUDA Toolkit.
-- cuDNN SDK (>= 7.4.1)
 - Tensorflow
 
 __You can visit [Tensorflow website](https://www.tensorflow.org/install/gpu), for installation guide for above requisites.__
